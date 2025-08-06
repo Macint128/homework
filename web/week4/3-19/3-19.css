@@ -1,0 +1,26 @@
+table {
+    border: 1px solid black;
+}
+.header {
+    width: 500px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.years {
+    width: 100px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.title {
+    width: 400px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+    border: 1px solid black;
+}

@@ -1,0 +1,26 @@
+.black-top {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.blue-top {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+    background-color: blueviolet;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.black {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+    background-color: black;
+}

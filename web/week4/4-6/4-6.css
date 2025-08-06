@@ -1,0 +1,75 @@
+.black-col1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.blue-col1 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.black-col2 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 100px;
+    bottom: 500px;
+    background-color: black;
+}
+.blue-col2 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 100px;
+    bottom: 500px;
+    background-color: aqua;
+}
+.black-col3 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 200px;
+    bottom: 1000px;
+    background-color: black;
+}
+.blue-col3 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 200px;
+    bottom: 1000px;
+    background-color: aqua;
+}
+.black-col4 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 300px;
+    bottom: 1500px;
+    background-color: black;
+}
+.blue-col4 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 300px;
+    bottom: 1500px;
+    background-color: aqua;
+}
+.black-col5 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 400px;
+    bottom: 2000px;
+    background-color: black;
+}
+.blue-col5 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 400px;
+    bottom: 2000px;
+    background-color: aqua;
+}
+

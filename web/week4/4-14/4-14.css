@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+div {
+    width: 50%;
+    height: 50%;
+    border-radius: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: aqua;
+}
+
+iframe {
+    width: 80%;
+    width: 80%;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
